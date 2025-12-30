@@ -18,7 +18,7 @@ function SearchFilter() {
         setf(res)
     }
     const handelReset = ()=>{
-        setf([])
+        setf([...fruits])
         setVal("")
     }
   return (
