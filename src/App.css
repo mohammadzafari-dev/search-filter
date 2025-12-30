@@ -1,0 +1,42 @@
+body{
+  margin: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.SearchFilter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 10px;
+  flex-direction: column;
+}
+.asd{
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.counter{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+}
+.btnreset{
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgb(38, 95, 95);
+  color: aliceblue;
+  font-size: x-large;
+}
+.input{
+  width: 300px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  background-color: rgb(14, 84, 34);
+  font-size: x-large;
+  color: aliceblue;
+}
